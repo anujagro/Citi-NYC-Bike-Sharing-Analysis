@@ -1,0 +1,28 @@
+Data Analyst Assignment on Bike Sharing Data:
+
+OUTPUT
+
+The desired output is three-fold:
+-A set of SQL queries you used to explore the underlying data
+-A Python script that includes deeper analyses of the data
+-4-5 slides with a set of recommendations for the business. These recommendations should be supported by visualizations and your key findings from the data. 
+
+
+DATA
+
+The data we’d like you to analyze is two years’ worth of data from the NYC Citi Bike program. You should focus on the 2016 and 2017 years. You can access the data in one of two ways:
+
+Leverage the Google Bigquery public dataset: bigquery-public-data.new_york_citibike. Note, you’ll need to open a Google Cloud account for this option, which includes $300 credit and 1 TB of free query processing (https://cloud.google.com/bigquery#section-11) 
+
+OR
+
+Download the publicly available data through the Citi Bike website (https://www.citibikenyc.com/system-data) and upload the data to your preferred database platform. Here’s a helpful article on importing .csv files into a MySQL database if you prefer to go this route: https://towardsdatascience.com/how-to-import-a-csv-file-into-mysql-workbench-17cb120169c8
+
+PROMPT
+
+Alta Bicycle Share, the company that owns and operates the Citi Bike program, is facing some unexpected financial difficulties as a result of dropping sponsorship revenue for the bike share program. Faced with a revenue shortfall, Alta would like you to mine the Citi Bike stations and trips data to come up with solutions and projected revenue impact. Alternatively, you could investigate ways to reduce expenses without impacting ride volume too negatively.
+
+
+Tips:
+
+You may make assumptions to help complete your analysis, however, please make sure you document these in your output.
