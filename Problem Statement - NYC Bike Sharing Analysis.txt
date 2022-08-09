@@ -10,7 +10,8 @@ The desired output is three-fold:
 
 DATA
 
-The data we’d like you to analyze is two years’ worth of data from the NYC Citi Bike program. You should focus on the 2016 and 2017 years. You can access the data in one of two ways:
+The data we’d like you to analyze is two years’ worth of data from the NYC Citi Bike program. You should focus on the 2016 and 2017 years.
+You can access the data in one of two ways:
 
 Leverage the Google Bigquery public dataset: bigquery-public-data.new_york_citibike. Note, you’ll need to open a Google Cloud account for this option, which includes $300 credit and 1 TB of free query processing (https://cloud.google.com/bigquery#section-11) 
 
